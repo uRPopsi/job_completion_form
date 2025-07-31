@@ -1,4 +1,4 @@
 <h1>JOB COMPLETION FORM APPLICATION</h1>
 
-This is an application with the specific purpose of making job completion form pdfs for my company <b>Preciousgate Integrated Services Limited</b>.
+This is a Laravel/TailwindCss application with the specific purpose of making job completion form pdfs for my company <b>Preciousgate Integrated Services Limited</b>.
 It simplifies the previous method of manually editing word documents and converting those documents to pdfs.
