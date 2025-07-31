@@ -70,7 +70,7 @@
     <!-- Watermark Logo -->
     <img src="{{ public_path('images/pgis_logo.png') }}" alt="Pgis_Logo"
          style="position: fixed; top: 50%; left: 45%; transform: translate(-50%, -50%); 
-                width: 85%; object-fit: cover; opacity: 0.6; z-index: -50;" />
+                width: 85%; object-fit: cover; opacity: 0.05; z-index: -50;" />
 
     <!-- Footer Message -->
     <div style="position: absolute; text-align: center; bottom: 0%;">
